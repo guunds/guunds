@@ -23,18 +23,6 @@
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,git,github,figma,solidity,python,rust,ai" /> </p>
 
-## 📊 GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guunduul&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guunds&layout=compact&theme=tokyonight" />
-</p>
-
-## 📈 ACTIVITY GRAPH
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=guunduul&theme=tokyonight" />
-</p>
 
 ## 🌐 CONNECT
 
